@@ -1,0 +1,39 @@
+@import url(./fonts.css);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1, h2, h3 {
+    @apply font-rfdewi font-bold
+  }
+  section {
+    @apply scroll-mt-[50px] max-lg:scroll-mt-[50px]
+  }
+  h4 {
+    @apply text-[40px] leading-none font-rfdewi text-nimbl-gray max-sm:text-base
+  }
+  h2 {
+    @apply text-[80px] leading-tight uppercase max-sm:text-[36px]
+  }
+  h3 {
+    @apply text-[60px] leading-tight uppercase max-sm:text-[30px]
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  background-color: white;
+  overflow-x: hidden;
+}
+
+
+:root {
+  font-family: 'TTOctos', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #161617;
+}

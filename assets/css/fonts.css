@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'RFDewi';
+  src: 
+      url('/fonts/RFDewiExpanded-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RFDewi';
+  src: 
+      url('/fonts/RFDewiExpanded-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TTOctos';
+  src: 
+      url('/fonts/TTOctosquares-DBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TTOctos';
+  src: 
+      url('/fonts/TTOctosquares-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
