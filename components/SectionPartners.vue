@@ -2,7 +2,7 @@
   <section>
     <div class="container py-[100px] max-sm:py-[50px]">
       <h3 class=" text-nimbl-black ">A Visual Feast for the Eyes:</h3>
-      <div class="mt-[30px] max-sm:mt-5 max-w-[1200px] text-2xl max-sm:text-base">
+      <div class="mt-[30px] max-sm:mt-5 max-w-[1200px] text-2xl max-sm:text-base max-2xl:text-xl">
         <p>
           We invest heavily in creating engaging animations, seamless transitions, and intuitive UI elements. Whether
           you're scrolling through a feed, swiping right to save content, or customizing your profile, every interaction
@@ -17,12 +17,12 @@
     </div>
   </section>
   <section id="partners">
-    <div class="container py-[100px] max-sm:py-[50px]">
+    <div class="container py-[100px] max-sm:py-[50px] max-2xl:pt-5">
       <h3 class=" text-nimbl-black ">
         Strategic Partnerships: <br />
         Building a Robust Ecosystem
       </h3>
-      <p class="mt-[30px] max-w-[1200px] text-2xl  max-sm:text-base max-sm:mt-5">
+      <p class="mt-[30px] max-w-[1200px] text-2xl  max-sm:text-base max-sm:mt-5 max-2xl:text-xl">
         Our network of strategic partnerships is more than just impressive affiliations; it's a carefully curated
         ecosystem designed to amplify Nimbl's capabilities and user experience.
       </p>

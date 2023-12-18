@@ -5,7 +5,7 @@
         What’s next? Redefining the Boundaries of Digital Experience
       </h4>
       <h3 class="text-nimbl-black mt-4">Nimbl v2: The Next Evolution</h3>
-      <p class="mt-7 text-nimbl-black text-2xl leading-tight max-w-[1200px] max-sm:text-base">
+      <p class="mt-7 text-nimbl-black text-2xl leading-tight max-w-[1200px] max-sm:text-base max-2xl:text-xl">
         While most would be content with achieving a groundbreaking platform, Nimbl envisions an entire ecosystem. Work
         has already begun on Nimbl v2, a second-generation platform that will further revolutionize how creators and
         users interact in the digital realm.

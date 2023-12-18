@@ -12,13 +12,13 @@
     @apply scroll-mt-[50px] max-lg:scroll-mt-[50px]
   }
   h4 {
-    @apply text-[40px] leading-none font-rfdewi text-nimbl-gray max-sm:text-base
+    @apply text-[40px] leading-none font-rfdewi text-nimbl-gray max-sm:text-base max-2xl:text-3xl
   }
   h2 {
-    @apply text-[80px] leading-tight uppercase max-sm:text-[36px]
+    @apply text-[80px] leading-tight uppercase max-sm:text-[36px] max-2xl:text-6xl
   }
   h3 {
-    @apply text-[60px] leading-tight uppercase max-sm:text-[30px]
+    @apply text-[60px] leading-tight uppercase max-sm:text-[30px] max-2xl:text-5xl
   }
 }
 

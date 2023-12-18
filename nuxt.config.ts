@@ -5,6 +5,9 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@nuxt/image',
   ],
+  plugins: [
+    "~/plugins/lottie-vue-player.client.js"
+  ],
   app: {
     head: {
       title: 'Nimbl White Paper'

@@ -3,7 +3,7 @@
     <div class="container flex items-center justify-between max-sm:flex-col max-sm:pt-[50px]">
       <div>
         <h2 class="text-white">INTRODUCTION</h2>
-        <div class="text-white text-2xl max-sm:text-base max-w-[870px] mt-8 space-y-4">
+        <div class="text-white text-2xl max-sm:text-base max-w-[870px] mt-8 space-y-4 max-2xl:text-xl">
           <p>Long gone are the days when social media was just a platform for sharing updates and photos.</p>
           <AppDivider />
           <p>
@@ -25,7 +25,8 @@
           loading="lazy"
           width="560"
           height="893"
-          class="flex-shrink-0 w-[560px] h-[893px] max-sm:w-full max-sm:h-auto" />
+          :placeholder="[250, 398, 20, 2]"
+          class="flex-shrink-0 w-[560px] h-[893px] max-sm:w-full max-sm:h-auto max-2xl:h-[600px] max-2xl:w-[376px] max-2xl:mr-10 max-md:mr-0" />
       </div>
     </div>
   </section>

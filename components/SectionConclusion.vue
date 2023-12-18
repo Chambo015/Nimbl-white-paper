@@ -5,7 +5,7 @@
         Conclusion: The <br class="max-sm:hidden" />
         Future Is Nimbl
       </h2>
-      <div class="text-white text-2xl max-w-[1130px] mt-8 space-y-5 max-sm:text-base">
+      <div class="text-white text-2xl max-w-[1130px] mt-8 space-y-5 max-sm:text-base max-2xl:text-xl max-2xl:max-w-[65%] max-md:max-w-full">
         <p>
           Nimbl isn't merely a project; it's a revolution in the making—a seamless blend of social interaction, content
           creation, and financial innovation. Fueled by an insatiable quest for fun, excitement, and community, Nimbl
@@ -31,9 +31,10 @@
           format="webp"
           src="/img/phone_hand.png"
           loading="lazy"
+          :placeholder="[564, 700, 20, 2]"
           width="652"
           height="809"
-          class="flex-shrink-0 w-[652px] h-[809px] max-sm:w-full max-sm:h-auto max-sm:translate-x-5" />
+          class="flex-shrink-0 w-[652px] h-[809px] max-sm:w-full max-sm:h-auto max-sm:translate-x-5 max-2xl:h-[700px] max-2xl:w-[564px]" />
       </div>
     </div>
   </section>

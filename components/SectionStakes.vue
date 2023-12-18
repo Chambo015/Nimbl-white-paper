@@ -6,12 +6,12 @@
         The Creator as Their Own <br />
         Product: A Groundbreaking Shift
       </h3>
-      <p class="mt-7 text-nimbl-black text-2xl leading-tight max-w-[1200px] max-sm:text-base">
+      <p class="mt-7 text-nimbl-black text-2xl leading-tight max-w-[1200px] max-sm:text-base max-2xl:text-xl">
         In a landscape where creators are often confined to product placements for monetization, Nimbl presents a
         transformative alternative. Here, creators don't need to dilute their personal brand with unrelated
         advertisements. Instead, they become the embodiment of their own product through Influencer "Stakes."
       </p>
-      <div class="grid grid-cols-2 gap-[30px] mt-[80px] max-sm:mt-10 max-sm:grid-cols-1 [&>div]:px-[30px] [&>div]:py-[60px] [&>div]:max-sm:px-4 [&>div]:max-sm:py-6">
+      <div class="grid grid-cols-2 gap-[30px] mt-[80px] max-sm:mt-10 max-sm:grid-cols-1 [&>div]:px-[30px] [&>div]:py-[60px] [&>div]:max-sm:px-4 [&>div]:max-sm:py-6 [&>div]:max-2xl:py-10">
         <div class="bg-[#1E1B25]  max-sm:px-4 ">
           <img :src="IconBase64.people" alt="people" height="84" width="84" />
           <div class="mt-6 max-sm:mt-3"><p class="max-w-[510px] font-tt-octos font-semibold text-white text-2xl max-sm:text-lg">The Future of Creator-Audience Interaction: Redefined</p>

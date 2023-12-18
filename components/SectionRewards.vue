@@ -31,13 +31,13 @@
 
 <style scoped>
 dt {
-  @apply text-white/50 font-rfdewi  flex items-center text-[40px] max-sm:text-[30px] leading-tight
+  @apply text-white/50 font-rfdewi  flex items-center text-[40px] max-sm:text-[30px] leading-tight max-2xl:text-4xl
 }
 dt:not(:first-of-type) {
  @apply mt-7
 }
 dd {
-  @apply text-white text-2xl leading-tight mt-7 mb-6 max-sm:text-base
+  @apply text-white text-2xl leading-tight mt-7 mb-6 max-sm:text-base max-2xl:text-xl
 }
 
 dt::before {

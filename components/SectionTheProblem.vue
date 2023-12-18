@@ -18,10 +18,10 @@
 <style scoped>
 
 dt {
-  @apply flex items-center text-[40px] font-rfdewi text-nimbl-gray max-sm:text-2xl
+  @apply flex items-center text-[40px] font-rfdewi text-nimbl-gray max-sm:text-2xl max-2xl:text-4xl
 }
 dd {
-  @apply text-nimbl-black text-2xl leading-tight mt-7 max-sm:text-base
+  @apply text-nimbl-black text-2xl leading-tight mt-7 max-sm:text-base max-2xl:text-xl
 }
 .first_before::before {
   content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' fill='none' viewBox='0 0 50 50'%3e%3cpath fill='url(%23a)' d='m32.22 7.35 10.236 10.327-.065 14.542-10.328 10.237-14.542-.065L7.284 32.063l.065-14.542L17.678 7.284l14.541.065Z'/%3e%3cg clip-path='url(%23b)'%3e%3cpath fill='white' d='M16.469 15.164a.946.946 0 0 0-1.196.11.93.93 0 0 0-.109 1.19l4.375 6.38-3.89 1.265a.936.936 0 0 0 0 1.782l4.027 1.304-2.067 3.93a.938.938 0 0 0 1.266 1.266l3.93-2.067 1.304 4.028a.936.936 0 0 0 1.782 0l1.304-4.028 3.93 2.067a.938.938 0 0 0 1.266-1.266l-2.067-3.93 4.028-1.304a.936.936 0 0 0 0-1.782l-4.16-1.347 1.003-2.75a.938.938 0 0 0-1.203-1.203l-2.75 1.003-1.351-4.164a.936.936 0 0 0-1.782 0l-1.261 3.891-6.38-4.375Z'/%3e%3c/g%3e%3cdefs%3e%3clinearGradient id='a' x1='7.313' x2='42.719' y1='17.593' y2='32.444' gradientUnits='userSpaceOnUse'%3e%3cstop stop-color='%23E5CBFF'/%3e%3cstop offset='1' stop-color='%23D4E8FF'/%3e%3c/linearGradient%3e%3cclipPath id='b'%3e%3cpath fill='white' d='M0 0h20v20H0z' transform='translate(15 15)'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e");
